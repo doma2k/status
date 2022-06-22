@@ -19,15 +19,15 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: asset-mantle.domanodes.com
-  baseUrl: /status
+  cname: www.asset-mantle.domanodes.com	
+  # baseUrl: /status
   logoUrl: https://domanodes.com/.well-known/002.png
   name: Upptime
   introTitle: "**Doma🏠Nodes**"
   introMessage: "Monitoring infastructure for AssetMantle"
   navbar:
     - title: Status
-      href: /status
+      href: http://www.asset-mantle.domanodes.com/status
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Doma🏠Nodes
