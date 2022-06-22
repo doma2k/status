@@ -26,8 +26,6 @@ status-website:
   introTitle: "**Doma🏠Nodes**"
   introMessage: "Monitoring infastructure for AssetMantle"
   navbar:
-    - title: Status
-      href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Doma🏠Nodes
