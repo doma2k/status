@@ -13,15 +13,19 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://domanodes.com/.well-known/002.png
   name: Upptime
-  introTitle: "**Domanodes**"
-  introMessage: 
+  introTitle: "**Doma🏠Nodes**"
+  introMessage: "Monitoring infastructure for AssetMantle"
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Doma🏠Nodes
+      href: https://domanodes.com
+    - title: Validator
+      href: https://explorer.assetmantle.one/validators/mantlevaloper1g09pl3j043uqpw7zqkrdsxw3ve7u63efj2q0gy  
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
