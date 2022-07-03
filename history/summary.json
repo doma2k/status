@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/rpc.mantle-1.domanodes.com",
     "slug": "mantle-1-rpc",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
-    "time": 317,
-    "timeDay": 249,
-    "timeWeek": 315,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 314,
+    "timeDay": 227,
+    "timeWeek": 310,
+    "timeMonth": 314,
+    "timeYear": 314,
     "dailyMinutesDown": {
       "2022-06-22": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 248,
-    "timeWeek": 301,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 300,
+    "timeDay": 230,
+    "timeWeek": 296,
+    "timeMonth": 300,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 233,
-    "timeWeek": 296,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "time": 304,
+    "timeDay": 216,
+    "timeWeek": 294,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   }
 ]
