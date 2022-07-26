@@ -4,10 +4,10 @@
     "url": "http://rpc.mantle-1.domanodes.com/",
     "icon": "https://favicons.githubusercontent.com/rpc.mantle-1.domanodes.com",
     "slug": "mantle-1-rpc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 315,
@@ -16,6 +16,7 @@
     "timeMonth": 315,
     "timeYear": 315,
     "dailyMinutesDown": {
+      "2022-07-26": 1,
       "2022-06-22": 20
     }
   },
@@ -24,7 +25,7 @@
     "url": "http://api.mantle-1.domanodes.com/",
     "icon": "https://favicons.githubusercontent.com/api.mantle-1.domanodes.com",
     "slug": "mantle-1-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 306,
     "timeMonth": 307,
     "timeYear": 305,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-26": 0
+    }
   },
   {
     "name": "test-mantle-1 RPC",
